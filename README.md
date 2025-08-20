@@ -1,0 +1,2 @@
+# Lenovo_Legion_R7000P_2021H_-Ryzen_7_5800H-_Hackintosh
+联想拯救者R7000P2021H，锐龙5800H版黑苹果EFI驱动文件
