@@ -6,7 +6,7 @@
 |   CPU   |   AMD Ryzen™ 7 5800H   |     &#x2705;     |
 |   核显    | AMD Radeon Graphics 2G |     &#x2705;     |
 |   独显    |   NVIDIA RTX3060 6G    |     &#x274C;     |
-| WIFI，蓝牙 |         AX210          | &#x2705;（需要OCLP） |
+| WIFI，蓝牙 |         AX210          | &#x2705;（需要OCLP-Mod） |
 |   固态    |  aigo P2000 1TB（第二盘位）  |     &#x2705;     |
 |   键盘    |                        |     &#x2705;     |
 |   触控板   |                        |     &#x2705;     |
