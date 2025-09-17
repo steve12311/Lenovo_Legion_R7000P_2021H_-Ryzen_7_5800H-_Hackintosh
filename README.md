@@ -1,5 +1,5 @@
 # Lenovo_Legion_R7000P_2021H_-Ryzen_7_5800H-_Hackintosh
-#### 本EFI适用于拯救者R7000P2021H款5800H机型，OpenCore版本为1.0.5，MacOS支持Sequoia 15.6
+#### 本EFI适用于拯救者R7000P2021H款5800H机型，OpenCore版本为1.0.5，MacOS支持Sequoia 15.7
 
 |   名称    |           型号           |        状态        |
 |:-------:|:----------------------:|:----------------:|
